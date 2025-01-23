@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Gapera321!
 
-  - 🌱 Atualmente estou estudando para me tonar um programador profissional e estou estudando com DevEmDobro pelos irmãos gêmeos
+  - 🌱 Atualmente estou estudando para me tonar um programador profissional e estou estudando com DevEmDobro pelos irmãos gêmeos.
 
   - 🔭 
 
