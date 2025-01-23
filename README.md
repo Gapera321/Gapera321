@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Gapera321 😁
+## Bem-vindo ao perfil do Gapera321 😁
 
  <div>
    <a href="https://github.com/Gapera321">
