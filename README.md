@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Bem-vindoao perfil do Gapera321 😁</h1></summary>
+    <summary><h1 style="display: inline-block">Bem-vindo ao perfil do Gapera321 😁</h1></summary>
 </div>
 
 <!-- Presentation -->
@@ -18,7 +18,7 @@
 
   - 💬I'm 17 years old, I currently live in Brazil. I am studying English and have experience with...
 
- - ⚡I like reading, whether it's a good book or manga, as well as watching movies and playing games! I also like music and play the guitar. I practice Jiu-jitsu and Muay Thai, which helps me develop discipline, resilience and focus. I believe that our personal interests and skills contribute to a more accurate perception of things and to creatively solving problems and challenges. \o/
+ - ⚡I like reading, whether it's a good book or manga, as well as watching movies and playing games! I also like music and play the guitar. I practice Jiu-jitsu and Muay Thai, which helps me develop discipline, resilience and focus. I believe that our personal interests and skills contribute to a more accurate perception of things and to creatively solving problems and challenges.
 </details>
 
 <!-- Links -->
